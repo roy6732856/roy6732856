@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roy6732856
 - 👀 I’m interested in coding and programming.
 - 🌱 I’m currently learning Java language and improving my English skills.
-- 💞️ I’m looking to collaborate on who is the beginner of language learner.
+- 💞️ I’m looking for collaboration with who is the beginner of language learner.
 - 📫 How to reach me by SMS.
 
 <!---
